@@ -1,2 +1,2 @@
-**Kompilieren: ** javac HelloWorld.java
-**Ausführen: ** java HellowWorld
+**Kompilieren:** javac HelloWorld.java  
+**Ausführen:** java HellowWorld
